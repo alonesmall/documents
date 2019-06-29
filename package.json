@@ -1,0 +1,24 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "登山舞台前的路，必定是自律且长久的坚持，加油2019！",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonesmall/documents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonesmall/documents/issues"
+  },
+  "homepage": "https://github.com/alonesmall/documents#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
